@@ -1,4 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
+import { Footer } from "../components/Footer.tsx";
 import { Navbar } from "../components/Navbar.tsx";
 
 export default function Characters() {
@@ -115,6 +116,7 @@ export default function Characters() {
           </div>
         </section>
       </main>
+      <Footer></Footer>
     </>
   );
 }

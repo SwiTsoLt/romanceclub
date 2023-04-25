@@ -1,4 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
+import { Footer } from "../components/Footer.tsx";
 import { Navbar } from "../components/Navbar.tsx";
 
 export default function Home() {
@@ -93,6 +94,7 @@ export default function Home() {
             </div>
           </section>
         </main>
+        <Footer></Footer>
       </div>
     </>
   );
