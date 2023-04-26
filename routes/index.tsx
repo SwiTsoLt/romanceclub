@@ -96,8 +96,16 @@ export default function Home() {
               </div>
             </div>
           </section>
-          <section className="flex flex-col gap-8 w-full h-auto bg-[#161616] p-8">
-            <div className="text-center font-bold text-3xl text-[#efeeee]">Stats</div>
+          <section className="relative flex flex-col gap-8 w-full h-auto bg-[#161616] p-8">
+            <img
+              src="main/story_logo_4.jpg"
+              alt=""
+              className="w-full h-full object-cover object-top absolute"
+              style="filter:brightness(.7);"
+            />
+            <div className="text-center font-bold text-3xl text-[#efeeee]">
+              Stats
+            </div>
             <p className="text-justify text-[#efeeee]">
               💡Logic - following this path, means under itself the
               subordination of feelings to the mind, and the guidance of "bare
