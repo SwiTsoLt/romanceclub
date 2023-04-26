@@ -98,7 +98,7 @@ export default function Home() {
           </section>
           <section className="flex flex-col gap-8 w-full h-auto bg-[#161616] p-8">
             <div className="text-center">Stats</div>
-            <p className="text-justify">
+            <p className="text-justify text-[#efeeee]">
               💡Logic - following this path, means under itself the
               subordination of feelings to the mind, and the guidance of "bare
               facts" in the analysis of this or that situation. The main
