@@ -103,7 +103,7 @@ export default function Home() {
               className="w-full h-full object-cover object-top absolute"
               style="filter:brightness(.5); z-index:-1;"
             />
-            <div className="text-center font-bold text-3xl text-[#efeeee] p-8">
+            <div className="text-center font-bold text-3xl text-[#efeeee] p-8 pb-0">
               Stats
             </div>
             <p className="text-justify text-[#efeeee] p-8">
