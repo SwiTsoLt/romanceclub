@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <div>
         <Navbar></Navbar>
-        <header className="w-auto h-screen bg-[#000000]">
+        <header className="w-auto h-screen">
           <img
             src="main/main_bg.jpg"
             alt=""
@@ -61,7 +61,7 @@ export default function Home() {
               style="filter:brightness(.7);"
             />
           </section> */}
-          <section className="relative w-full h-screen flex flex-col gap-4 justify-center items-center bg-[#161616]">
+          <section className="relative w-full h-screen flex flex-col gap-4 justify-center items-center">
             <img
               src="main/story_logo_3.jpg"
               alt=""
@@ -96,7 +96,7 @@ export default function Home() {
               </div>
             </div>
           </section>
-          <section className="relative flex flex-col w-full h-auto bg-[#161616]">
+          <section className="relative flex flex-col w-full h-auto">
             <img
               src="main/story_logo_4.jpg"
               alt=""
