@@ -14,10 +14,10 @@ export default function Home() {
           <img
             src="main/main_bg.jpg"
             alt=""
-            className="absolute w-full h-full object-cover object-center brightness-10"
+            className="absolute w-full h-screen object-cover object-center brightness-10"
             style="z-index:-1;"
           />
-          <div className="w-full h-full story_logo grid place-items-center bg-[#00000099]">
+          <div className="w-full h-screen story_logo grid place-items-center bg-[#00000099]">
             <img
               src="main/story_logo.png"
               alt=""
