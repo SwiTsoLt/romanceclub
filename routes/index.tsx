@@ -25,7 +25,7 @@ export default function Home() {
             />
           </div>
         </header>
-        <main className="w-full h-auto">
+        <main className="flex flex-col w-full h-auto">
           <section className="w-full min-h-[100vh] h-auto bg-[#69100a] flex justify-center">
             <div className="w-full h-auto flex justify-items-center items-center p-8">
               <div className="w-full h-auto flex flex-col gap-8 justify-items-center items-center">
