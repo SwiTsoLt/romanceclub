@@ -83,10 +83,6 @@ export default function Home() {
                 <p>: 8</p>
               </div>
               <div className="flex">
-                <strong>Story status</strong>
-                <p>: End</p>
-              </div>
-              <div className="flex">
                 <strong>Number of seasons</strong>
                 <p>: З</p>
               </div>
