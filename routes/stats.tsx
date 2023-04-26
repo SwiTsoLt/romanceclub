@@ -11,7 +11,7 @@ export default function Stats() {
             <img
               src="main/story_logo_4.jpg"
               alt=""
-              className="w-full h-full object-cover object-top fixed top-0"
+              className="w-full h-screen object-cover object-top fixed top-0"
               style="filter:brightness(.5); z-index:-1;"
             />
             <div className="text-center font-bold text-3xl text-[#efeeee] p-8 pb-0">
