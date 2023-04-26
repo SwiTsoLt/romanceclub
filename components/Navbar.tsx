@@ -18,7 +18,7 @@ export function Navbar(props: JSX.HTMLAttributes<HTMLElement>) {
       </div>
       <div className="links w-[100%] h-full flex gap-8 justify-center items-center text-[#efeeee]">
         <a href="/">Home</a>
-        <a href="/characters">Characters</a>
+        <a href="/favorites">favorites</a>
       </div>
     </nav>
   );

@@ -68,7 +68,10 @@ export default function Home() {
               className="w-full h-full object-cover object-top absolute"
               style="filter:brightness(.5); z-index:-1;"
             />
-            <div className="w-auto h-auto flex flex-col gap-2 bg-[#ffffff16] p-8 rounded-lg text-[#efeeee]" style="backdrop-filter: blur(4px);">
+            <div
+              className="w-auto h-auto flex flex-col gap-2 bg-[#ffffff16] p-8 rounded-lg text-[#efeeee]"
+              style="backdrop-filter: blur(4px);"
+            >
               <h1 className="font-bold text-3xl">General information</h1>
               <div></div>
               <div className="flex">
@@ -92,6 +95,44 @@ export default function Home() {
                 <p>: Girl</p>
               </div>
             </div>
+          </section>
+          <section className="flex flex-col gap-8 w-full h-auto bg-[#161616] p-8">
+            <div className="text-center">Stats</div>
+            <p className="text-justify">
+              💡Logic - following this path, means under itself the
+              subordination of feelings to the mind, and the guidance of "bare
+              facts" in the analysis of this or that situation. The main
+              character will react to what is happening and solve problems more
+              intelligently and meaningfully. This path is most often chosen
+              during the passage of this story.
+              <br />
+              <br />
+              👁️ Intuition - following this path, means understanding the truth
+              without relying on logical grounds. The main character will rely
+              on her "sixth sense". Balance: equal accumulation of stat 💡Logic
+              and 👁️ Intuition is possible, but it implies taking all paid
+              choices in order to take the final choice for stat by Zx11, and
+              constantly eniya. If you are limited in the game currency and do
+              not want to bother with calculations, then it is better to stick
+              to the accumulation of only one stat.
+              <br />
+              <br />
+              👍Authority is a reputation stat that influences the course of
+              history and the attitude of the characters to the main character.
+              Businessman points - a stat that appears at the beginning of the
+              2nd season and affects the restoration of the family home.
+              <br />
+              <br />
+              😇Mercy / 👿Bitterness - a stat that will appear at the end of the
+              2nd season, it will determine the worldview of the main character
+              and affect the survival of the characters in the finale. 😇Mercy -
+              along this path, the heroine is distinguished by benevolence and
+              altruism towards others. This will contribute to the survival of
+              her friends and relatives in the finale. 👿 Violence - along this
+              path, the main character is rude and ruthless to those around her.
+              The predominance of this path can make the finale of your story
+              more tragic.
+            </p>
           </section>
         </main>
         <Footer></Footer>
