@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Romance club</title>
       </Head>
-      <div>
+      <div className="flex flex-col">
         <Navbar></Navbar>
         <header className="w-auto h-screen">
           <img
