@@ -7,6 +7,7 @@ export default function Stats() {
         <>
             <Navbar></Navbar>
             <main className="relative flex flex-col w-full h-auto min-h-[100vh]">
+                <h2 className="w-full h-auto p-8 pb-0 text-center font-bold text-3xl">Stats</h2>
             <img
               src="main/story_logo_4.jpg"
               alt=""
