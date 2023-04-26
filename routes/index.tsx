@@ -101,7 +101,7 @@ export default function Home() {
               src="main/story_logo_4.jpg"
               alt=""
               className="w-full h-full object-cover object-top absolute"
-              style="filter:brightness(.7);"
+              style="filter:brightness(.7); z-index:-1;"
             />
             <div className="text-center font-bold text-3xl text-[#efeeee] p-8">
               Stats
