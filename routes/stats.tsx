@@ -6,7 +6,7 @@ export default function Stats() {
     return (
         <>
             <Navbar></Navbar>
-            <main className="relative flex flex-col w-full h-auto">
+            <main className="relative flex flex-col w-full h-auto min-h-[100vh]">
             <img
               src="main/story_logo_4.jpg"
               alt=""
